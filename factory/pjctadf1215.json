@@ -1,0 +1,9 @@
+{
+	"name": "pjctadf1215",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "487921e1-bceb-4d64-adff-7eee8e5a4223",
+		"tenantId": "1228fb5f-cbb8-4cbc-82ec-4ff19d137490"
+	}
+}
